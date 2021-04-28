@@ -1,2 +1,2 @@
-# py4e-exercies
+# py4e-exercises
  Assignments from PythonForEverybody, Dr.Chuck course
