@@ -1,2 +1,3 @@
 # py4e-exercises
- Assignments from PythonForEverybody, Dr.Chuck course
+
+Assignments from Chapter 13 (Web Services) Python For Everybody, Dr.Chuck's course
